@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Qwitcher+Grypen:wght@700&family=Roboto&family=The+Nautigal:wght@700&display=swap');
+
+footer {
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: blue;
+    font-size: 3rem;
+    color: white;
+    font-family: 'The Nautigal', cursive;
+    text-shadow: 5px 6px 3px #000000;
+    opacity: 0.7;
+}
